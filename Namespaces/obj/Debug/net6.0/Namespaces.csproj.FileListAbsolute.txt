@@ -1,0 +1,15 @@
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\bin\Debug\net6.0\Namespaces.exe
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\bin\Debug\net6.0\Namespaces.deps.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\bin\Debug\net6.0\Namespaces.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\bin\Debug\net6.0\Namespaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\bin\Debug\net6.0\ref\Namespaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\bin\Debug\net6.0\Namespaces.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.csproj.AssemblyReference.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\ref\Namespaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson06HandsOn\Namespaces\obj\Debug\net6.0\Namespaces.genruntimeconfig.cache
